@@ -4,6 +4,16 @@ node_modules
 /build
 /functions
 /desktop.ini
-/static
+/static/gif
+/static/img
+
+/static/slide/img(1).jpg
+/static/slide/img(2).jpg
+/static/slide/img(3).jpg
+/static/slide/img(5).jpg
+
+/static/video
+
+
 
 /src/lib/assets/video
